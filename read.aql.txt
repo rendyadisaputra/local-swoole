@@ -1,0 +1,14 @@
+Seed:         127.0.0.1
+User:         None
+Config File:  /etc/aerospike/astools.conf /root/.aerospike/astools.conf 
+Aerospike Query Client
+Version 3.19.0
+Copyright 2012-2019 Aerospike. All rights reserved.
+aql> ^C
+Seed:         127.0.0.1
+User:         None
+Config File:  /etc/aerospike/astools.conf /root/.aerospike/astools.conf 
+Aerospike Query Client
+Version 3.19.0
+Copyright 2012-2019 Aerospike. All rights reserved.
+aql> ^C
